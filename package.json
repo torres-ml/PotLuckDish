@@ -1,0 +1,8 @@
+{
+  "name": "js-l9-potluck-dish",
+  "version": "1.0.0",
+  "description": "Assigning a dish to a Potluck Guest ",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
